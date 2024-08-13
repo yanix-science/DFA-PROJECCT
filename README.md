@@ -1,3 +1,9 @@
+Integrantes:
+- Bryan  Ariza 
+- Andres Toledo
+- Juan   Wilches
+- Manuel Cardenas
+  
 DFA Project
 Este proyecto implementa un Autómata Finito Determinista (DFA) en lenguaje C, diseñado para evaluar cadenas de entrada y determinar si son aceptadas o rechazadas con base en un conjunto de estados, un alfabeto, y transiciones especificadas en un archivo de configuración (configuracion.txt) o (configuracion2.txt). El DFA se procesa de manera que, a partir de un estado inicial, sigue las transiciones definidas hasta llegar a un estado de aceptación o rechazo.
 
